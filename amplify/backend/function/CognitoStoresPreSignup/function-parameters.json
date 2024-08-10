@@ -1,0 +1,15 @@
+{
+    "permissions": {
+        "storage": {
+            "DynamoStores": [
+                "create",
+                "update"
+            ]
+        },
+        "function": {
+            "retrieveSecret": [
+                "read"
+            ]
+        }
+    }
+}

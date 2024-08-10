@@ -1,0 +1,9 @@
+{
+    "permissions": {
+        "function": {
+            "retrieveSecret": [
+                "read"
+            ]
+        }
+    }
+}

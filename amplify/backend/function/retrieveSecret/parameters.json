@@ -1,0 +1,5 @@
+{
+    "SECRETNAME": "iCat-Secret",
+    "SECRETKEY": "aws/secretsmanager",
+    "SECRETARN": "arn:aws:secretsmanager:us-east-1:767398007438:secret:iCat-Secret-EROeBC"
+}

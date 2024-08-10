@@ -1,0 +1,19 @@
+{
+    "permissions": {
+        "storage": {
+            "DynamoStores": [
+                "delete"
+            ]
+        },
+        "function": {
+            "retrieveSecret": [
+                "read"
+            ]
+        },
+        "auth": {
+            "CognitoStores": [
+                "delete"
+            ]
+        }
+    }
+}
